@@ -8,6 +8,35 @@ torch laoding data with specic shapes  (all 0 , al 1 , all rand)  , chanfing val
 
 part2
 requires_grad, loss calcualtion to optmize params, grad, grad_fn, no_grad,
+downlaoding models save later use, chnage number of features, loss calculation, backward propagation, optmizer , backward with external gradients,
+layer freezing
+
+part3
+model network ,linear nn , conv2d, maxpooling, relu , softmax
+network example,  loss , bckprop , weight update ,imshow
+
+
+part4
+loading dataset
+visualizing dataset 
+iterating thru dataset 
+
+part 5
+network build
+training 
+saving
+prediction
+classes that performed well 
+training on gpu
+
+
+part6
+displaying data from each batch  in plot
+flipping etc
+saving result locally
+
+
+
 
 
 
