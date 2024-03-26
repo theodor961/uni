@@ -1,0 +1,13 @@
+lab 1
+vectors ,numpy.array ,random ,permutation , avg mean sub vectors,  vector matrix mult element-wise product,indexing  etc...
+
+
+lab2
+torch laoding data with specic shapes  (all 0 , al 1 , all rand)  , chanfing values of specific rows   , concatinating tensors, Multiplying tensors element-wise product , matrix mult , transpose , add , sub  , tensor <=> numpy conversion
+
+
+part2
+requires_grad, loss calcualtion to optmize params, grad, grad_fn, no_grad,
+
+
+
